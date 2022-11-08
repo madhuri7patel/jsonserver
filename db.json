@@ -1,27 +1,24 @@
-{
-  "furniture": [
-    {
-      "id": 1,
-      "type": "Study table",
-      "year": 2019,
-      "Description": "Wooden table with dual laptop setup",
-      "Price": 50000
-    },
-    {
-      "id": 2,
-      "type": "chair",
-      "year": 2017,
-      "Description": "Gaming Chair",
-      "Price": 8000
-    }
-  ],
-  "wishlisted": [
-    {
-      "id": 1,
-      "type": "Study table",
-      "year": 2019,
-      "Description": "Wooden table with dual laptop setup",
-      "Price": 50000
-    }
-  ]
-}
+[
+  {
+    "company": "Ellette",
+    "postedAt": "2021-03-30",
+    "city": "Gangtok",
+    "location": "American Samoa",
+    "role": "Frontend",
+    "level": "Junior",
+    "contract": "Full Time",
+    "position": " Backend Developer",
+    "language": "Java"
+  },
+  {
+    "company": "Jinny",
+    "postedAt": "2021-09-09",
+    "city": "Ludhiana",
+    "location": "Belgium",
+    "role": "FullStack",
+    "level": "Junior",
+    "contract": "Full Time",
+    "position": "Junior Frontend Developer",
+    "language": "Java"
+  }
+]
